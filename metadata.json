@@ -1,0 +1,7 @@
+{
+  "name": "Copy of 拍照识字 (Photo Character Recognition)",
+  "description": "An application for children to learn Chinese characters. It recognizes the main subject in a photo and displays its name in large Chinese characters.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
